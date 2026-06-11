@@ -185,5 +185,3 @@ AtlasML draws inspiration from modern distributed compute and orchestration syst
 * Celery
 * Apache Airflow
 * Kubernetes Jobs
-
-### ⭐ If you find this project interesting, consider starring the repository.
