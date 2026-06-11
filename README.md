@@ -186,12 +186,4 @@ AtlasML draws inspiration from modern distributed compute and orchestration syst
 * Apache Airflow
 * Kubernetes Jobs
 
----
-
-## 📄 License
-
-MIT License
-
----
-
 ### ⭐ If you find this project interesting, consider starring the repository.
