@@ -1,5 +1,10 @@
 # 🚀 AtlasML
 
+![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-orange?logo=rust)
+![Redis](https://img.shields.io/badge/Redis-Task%20Queue-red?logo=redis)
+![Axum](https://img.shields.io/badge/Axum-Web%20Framework-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 A distributed machine learning job orchestration platform built in Rust.
 
 AtlasML provides a Redis-backed task queue, worker execution pipeline, and orchestration APIs for managing ML workloads. The project explores core distributed systems concepts including task scheduling, worker coordination, queue-based execution, and scalable infrastructure design.
